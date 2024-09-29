@@ -1,4 +1,5 @@
 # Pygame Maze Solving Simulation with A* Algorithm
+<img width="831" alt="Screenshot 2024-09-28 at 9 41 03 PM" src="https://github.com/user-attachments/assets/c633d62e-360b-4340-8a60-ee19cd7ed041">
 
 ## Overview
 
