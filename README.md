@@ -46,11 +46,3 @@ You can watch a demo of the simulation on YouTube: [Maze Solving Simulation Demo
     python maze_simulation.py
     ```
 
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgements
-
-This project was created as part of an academic assignment for demonstrating maze-solving behavior using A* search.
-
