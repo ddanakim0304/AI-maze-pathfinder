@@ -1,4 +1,8 @@
 # Pygame Maze Solving Simulation with A* Algorithm
+
+### You can watch a demo of the simulation on YouTube: [Maze Solving Simulation Demo](https://youtu.be/vsP_LOAWR_Q)
+
+
 <img width="831" alt="Screenshot 2024-09-28 at 9 41 03 PM" src="https://github.com/user-attachments/assets/c633d62e-360b-4340-8a60-ee19cd7ed041">
 
 ## Overview
@@ -26,9 +30,6 @@ Once the goal cell is selected from the frontier, the algorithm backtracks from 
 
 The final blue path represents the optimal solution found using the A* algorithm. 
 
-## Demo
-
-You can watch a demo of the simulation on YouTube: [Maze Solving Simulation Demo](https://youtu.be/vsP_LOAWR_Q)
 
 ## Requirements
 
